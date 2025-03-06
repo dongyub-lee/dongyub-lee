@@ -19,7 +19,14 @@ I find it hard to write clean code, but I keep working to improve.
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyub-lee&show_icons=true&theme=radical)  
+### GitHub stats
+![dongyub-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyub-lee&show_icons=true&theme=dracula)  
+
+### Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyub-lee&layout=compact&theme=highcontrast)
+
+### Baekjoon solved rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ldyydl)](https://solved.ac/ldyydl)
 
 ### :mailbox_with_mail: Contacts 👇
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imbecile2222@gmail.com)](mailto:imbecile2222@gmail.com)
