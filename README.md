@@ -4,7 +4,7 @@
 
 
 
-### 🙌 ❤ Introduce Myself 🙇‍♂️ 
+### 🙌 Introduce Myself 🙇‍♂️ ❤
 I am a frontend & backend developer using spring and spring boot with java and typescript and javascript.  
 I find it hard to write clean code, but I keep working to improve.
 <br>
