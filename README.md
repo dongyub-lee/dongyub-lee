@@ -82,26 +82,26 @@ I find it hard to write clean code, but I keep working to improve.
 <img src="https://img.shields.io/badge/playwright-4285F4?style=for-the-badge&logo=google&logoColor=white">
 <br>
 
-### TODO
+### 💪 TODO
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <br>
 
-### GitHub stats
+### ⭐ GitHub stats
 ![dongyub-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyub-lee&show_icons=true&theme=dracula)  
 
-### Most used language
+### 💻 Most used language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyub-lee&layout=compact&theme=highcontrast)
 
-### Baekjoon solved rank
+### 🧑‍💻 Baekjoon solved rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ldyydl)](https://solved.ac/ldyydl)
 
 ### :mailbox_with_mail: Contacts 👇
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imbecile2222@gmail.com)](mailto:imbecile2222@gmail.com)
 
-### Link
+### 🔗 Link
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@ldyydl/posts/)
 
 </div>
